@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9XOp7ma3aMMox6/QA5w9ev6pNIeTgXeAvdXE/W/GsU4wCxOclZfoVaeMzfzIL1Jgbdc/d4jYy4c57RKamzBDeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hung\\Documents\\Code\\RandomNumberGenerator\\RandomGenerator\\RandomGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hung\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hung\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+c:\Users\Hung\Documents\Code\RandomNumberGenerator\RandomGenerator\bin\Debug\netstandard2.0\RandomGenerator.deps.json
+c:\Users\Hung\Documents\Code\RandomNumberGenerator\RandomGenerator\bin\Debug\netstandard2.0\RandomGenerator.dll
+c:\Users\Hung\Documents\Code\RandomNumberGenerator\RandomGenerator\bin\Debug\netstandard2.0\RandomGenerator.pdb
+c:\Users\Hung\Documents\Code\RandomNumberGenerator\RandomGenerator\obj\Debug\netstandard2.0\RandomGenerator.csprojAssemblyReference.cache
+c:\Users\Hung\Documents\Code\RandomNumberGenerator\RandomGenerator\obj\Debug\netstandard2.0\RandomGenerator.AssemblyInfoInputs.cache
+c:\Users\Hung\Documents\Code\RandomNumberGenerator\RandomGenerator\obj\Debug\netstandard2.0\RandomGenerator.AssemblyInfo.cs
+c:\Users\Hung\Documents\Code\RandomNumberGenerator\RandomGenerator\obj\Debug\netstandard2.0\RandomGenerator.csproj.CoreCompileInputs.cache
+c:\Users\Hung\Documents\Code\RandomNumberGenerator\RandomGenerator\obj\Debug\netstandard2.0\RandomGenerator.dll
+c:\Users\Hung\Documents\Code\RandomNumberGenerator\RandomGenerator\obj\Debug\netstandard2.0\RandomGenerator.pdb
